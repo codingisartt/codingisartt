@@ -1,6 +1,7 @@
 
 # Tubanur Balci
-### Hello, I'm TubanurBalci, I graduated from the department of electrical and electronics engineering. I am trying to improve myself in the software industry. I coded image processing with python at the time, now I'm coding in java. 
+### Hello, I'm TubanurBalci.
+Since graduating, I have been absolutely thrilled to develop my skills in Java SpringBoot and have found it to be an incredibly fascinating area of interest! I have also had the fantastic opportunity to work with a wide variety of other cutting-edge technologies, which has significantly broadened my experience and knowledge. While I am primarily focused on developing my expertise in Java SpringBoot, I am also eagerly open to exploring other exciting technologies. As part of my professional development, I am currently preparing for the highly anticipated Java17 OCP exam, which is one of my top goals! 
  
 ## Connect with me
  
